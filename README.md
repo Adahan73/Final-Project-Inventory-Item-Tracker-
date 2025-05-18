@@ -1,7 +1,5 @@
 # Final Project - Inventory Item Tracker
 
-# Inventory Item Tracker
-
 ## 👤 Student: Adakhan Begimkulov
 
 ## 📌 Description
