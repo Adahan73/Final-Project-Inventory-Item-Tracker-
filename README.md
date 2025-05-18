@@ -103,3 +103,10 @@ The **Inventory Item Tracker** is a Java-based command-line application that all
   The application requires manual entry of unique IDs for each item — which could be improved in the future.
 
 
+## Test Cases and OutputsTest Cases and Outputs
+
+### For example, I took computer components:
+1) First, I added them to the database
+2) Then we can see the list of items
+3) We can update or delete some items
+4) At the end, we can calculate the general information
