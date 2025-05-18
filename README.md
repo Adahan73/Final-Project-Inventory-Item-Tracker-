@@ -110,3 +110,4 @@ The **Inventory Item Tracker** is a Java-based command-line application that all
 2) Then we can see the list of items
 3) We can update or delete some items
 4) At the end, we can calculate the general information
+## (check screenshots)
