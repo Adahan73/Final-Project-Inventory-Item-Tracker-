@@ -49,7 +49,7 @@ The **Inventory Item Tracker** is a Java-based command-line application that all
 
 ## 📚 Documentation
 
-### 🔧 Data Structures
+### Data Structures
 - **HashMap<String, InventoryItem>**  
   Used to store and quickly access inventory items by their unique ID.
 
@@ -59,7 +59,7 @@ The **Inventory Item Tracker** is a Java-based command-line application that all
 - **Plain Text File (`data.txt`)**  
   All data is saved in a text file, one item per line, with fields separated by the `|` character.
 
-### 🧠 Algorithms & Logic
+### Algorithms & Logic
 - **CRUD Operations**  
   The program uses a menu-based interface allowing the user to create, read, update, and delete items.
 
@@ -73,7 +73,7 @@ The **Inventory Item Tracker** is a Java-based command-line application that all
 - **Report Generation**  
   Iterates through all inventory items to calculate the total number of items and the total inventory value.
 
-### 🧩 Classes / Modules
+### Classes / Modules
 - **InventoryItem.java**  
   Represents a single inventory item, with methods to convert to and from text format.
 
@@ -89,7 +89,7 @@ The **Inventory Item Tracker** is a Java-based command-line application that all
 - **InventoryTracker.java**  
   The main class that presents the menu and controls the application flow.
 
-### ⚠️ Challenges Faced
+### Challenges Faced
 - **Data Storage Format**  
   Plain text (TXT) was chosen for easy readability and manual editing outside the program.
 
