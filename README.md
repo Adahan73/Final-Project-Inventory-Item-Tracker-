@@ -28,10 +28,10 @@ The **Inventory Item Tracker** is a Java-based command-line application that all
    Prevent empty inputs and ensure numeric fields (e.g., quantity, price) are valid.
 
 4. **Data Persistence**  
-   Save and load inventory data to and from a `data.csv` file to preserve changes between sessions.
+   Save and load inventory data to and from a `data.txt` file to preserve changes between sessions.
 
 5. **Readable Data Format**  
-   Store data in CSV (Comma-Separated Values) format to allow external viewing and editing.
+   Store data in txt format to allow external viewing and editing.
 
 6. **Item Identification**  
    Each inventory item must have a unique ID to differentiate it from others.
